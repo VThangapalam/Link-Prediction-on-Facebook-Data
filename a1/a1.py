@@ -8,10 +8,6 @@
 #
 # We'll cluster the resulting graph into communities, as well as recommend friends for Bill Gates.
 #
-# Complete the **15** methods below that are indicated by `TODO`. I've provided some sample output to help guide your implementation.
-
-
-# You should not use any imports not listed here:
 from collections import Counter, defaultdict, deque
 import copy
 import math
